@@ -1,0 +1,1 @@
+FoodApp - a simple command-line based food ordering model built using Python. It simulates a basic food ordering experience, allowing users to register, log in, and access menu-based functionalities for ordering food.
